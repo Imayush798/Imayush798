@@ -13,7 +13,7 @@ align="right" width="400" src="https://camo.githubusercontent.com/01c83210f7feb9
 
 - 💬 Ask me about **React, Node.js, MERN, Web Development**
 
-- 📫 How to reach me <a href="mailto:ayushsahu798@gmail.com" target="_blank"><button>Email Me</button></a>
+- 📫 How to reach me <a href="mailto:ayushsahu798@gmail.com" target="_blank"><button>Email</button></a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vdE1YZVGELNoRqlKxU9JHfnswHJZ7T5o/view?usp=sharing" target="_blank"><button>Resume</button></a>
 
